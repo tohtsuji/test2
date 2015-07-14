@@ -3,7 +3,3 @@ test 2
 
 ## Hello
 :pizza:
-
-## World
-:coffee:
-
